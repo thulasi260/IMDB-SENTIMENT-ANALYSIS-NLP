@@ -1,4 +1,5 @@
 🎬 IMDb Sentiment Analysis using NLP & Machine Learning
+
 📌 Project Overview
 This project builds an end-to-end Natural Language Processing (NLP) pipeline to classify IMDb movie reviews as Positive or Negative using Machine Learning models.
 The objective is to demonstrate text preprocessing, feature engineering using TF-IDF, model comparison, and performance evaluation on real-world review data.
